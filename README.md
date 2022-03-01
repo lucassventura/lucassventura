@@ -1,6 +1,6 @@
 ### Eu sou o Lucas Ventura! Seja bem-vindo(a) 👋
 
-- 💻 Hoje trabalho como Service Desk Agent
+- 💻 Hoje trabalho como Customer Support Analyst I
 - 🚀 Programando em JS 
 - 📚 Estudando NodeJS
 - 💡 Aprendendo sobre HTML / CSS
