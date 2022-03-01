@@ -14,10 +14,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://img.icons8.com/ios/100/000000/javascript--v2.png">
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://img.icons8.com/windows/128/000000/node-js.png">
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://img.icons8.com/ios-filled/100/000000/html-5--v1.png">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://img.icons8.com/ios-filled/100/000000/css3.png">
+  <img align="center" alt="emily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="emily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="emily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="emily-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/935977888476454982/948225671958782022/IMG-20220224-WA0035.jpg">
 </div>
   
