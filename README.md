@@ -5,7 +5,6 @@
 - 📚 Estudando NodeJS
 - 💡 Aprendendo sobre HTML / CSS
 - 🕹️ Gamer nas horas vagas
-- 📫 Contate-me no e-mail: lvdssbr@hotmail.com
 
 <div align="center">
   <a href="https://github.com/lucassventura">
