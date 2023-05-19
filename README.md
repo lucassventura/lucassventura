@@ -1,9 +1,9 @@
 ### Eu sou o Lucas Ventura! Seja bem-vindo(a) 👋
 
 - 💻 Hoje trabalho como Customer Support Analyst na Zenvia
-- 🚀 Programando em JS 
-- 📚 Estudando NodeJS
-- 💡 Aprendendo sobre HTML / CSS
+- 🚀 Programo em JS / HTML / CSS / NodeJS
+- 📚 Graduado em Análise e desenvolvimento de sistemas
+- 💡 Aprendendo sobre API / chatGPT / Integrações via API
 - 🕹️ Gamer nas horas vagas
 
 <div align="center">
