@@ -3,7 +3,7 @@
 - 💻 Hoje trabalho como Customer Support Analyst na Zenvia
 - 🚀 Programo em JS / HTML / CSS / NodeJS
 - 📚 Graduado em Análise e desenvolvimento de sistemas
-- 💡 Aprendendo sobre API / chatGPT / Integrações via API
+- 💡 Habilidades em: Integrações API / chatGPT / Power BI / SaaS
 - 🕹️ Gamer nas horas vagas
 
 <div align="center">
